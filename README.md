@@ -4,7 +4,6 @@ PREP UI/UX 메인 서비스
 
 1. 카카오 소셜 로그인 서비스를 제공합니다.
 
-
 PREP API 메인 서비스
 
 1. PREP에 게시된 상품리스트를 제공합니다.
@@ -14,7 +13,7 @@ PREP API 메인 서비스
 
 - 사이트 링크 : https://www.frip.co.kr/
 
-# 🚀  TEAM_PREP
+# 🚀 TEAM_PREP
 
 - 시연 영상 : https://youtu.be/NUBgFwd-CiE
 - 배포한 웹사이트 
@@ -22,7 +21,7 @@ PREP API 메인 서비스
 ## 👫 팀원
 
 - Front-end : 장연정, 박보라, 양성호
-- Back-end : 권민석, 이용건
+- Back-end : 이용건, 권민석
 
 ## 개발 기간
 
@@ -34,19 +33,13 @@ PREP API 메인 서비스
 - Back-end: Django, Python, MySQL, jwt, bcrypt, AWS EC2, AWS RDS, AWS S3, Docker
 - 협업툴: Trello, Slack, Notion, Git, Ddiagram, Postman
 
-## 구현 기능 및 개인 역할
-
-> **이용건**
+## 구현 기능
 
 - KaKao Social 로그인/회원가입, 인증/인가 API 구현
 - 상품 상세 페이지 제공 API 구현
-
-> **권민석**
-
 - 메인 페이지, 검색 결과 상품 리스트 제공 API
 - Pin 상세페이지 정보, 댓글 제공 API
 - S3를 연동한 리뷰 사진 업로드 API
-
 
 ## 소감 및 후기
 
